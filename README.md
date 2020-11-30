@@ -75,4 +75,4 @@ Backend:
 
 ## Demo
 
-- [2048-game](http://47.101.139.249)
+- [2048-game-fullstack](http://47.101.139.249)
