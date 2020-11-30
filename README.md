@@ -1,4 +1,9 @@
-# techtrainingcamp-frontend-1
+<h1 align="center" style="font-size:50px">2048-game-fullstack</h1>
+
+<p align="center">
+  <a href="https://github.com/shapeng1998/2048-frontend/actions"><img src="https://github.com/shapeng1998/2048-frontend/workflows/frontend%20build/badge.svg" alt="frontend build"></a>
+  <a href="https://github.com/shapeng1998/2048-backend/actions"><img src="https://github.com/shapeng1998/2048-backend/workflows/backend%20build/badge.svg" alt="backend build"></a>
+</p>
 
 > A simple implementation of 2048 game, supports scoreboards, multiplayer mode, difficulty adjustment and smooth animation. Some logic is referenced from project [2048-multiplayer-client](https://github.com/pietrushka/2048-multiplayer-client) and [2048-multiplayer-server](https://github.com/pietrushka/2048-multiplayer-server). Both frontend and backend have CI/CD using [Github Actions](https://github.com/features/actions).
 
