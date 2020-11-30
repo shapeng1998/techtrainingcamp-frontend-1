@@ -10,6 +10,43 @@
 4. Preparation part of multi-player phase
 5. Fluent animation
 
+## Dev setup
+
+Frontend:
+
+```bash
+# clone the project
+git clone https://github.com/shapeng1998/2048-frontend
+
+# enter the project directory
+cd 2048-frontend
+
+# install dependency
+npm install
+
+# develop
+npm start
+```
+
+Backend:
+
+```bash
+# clone the project
+git clone https://github.com/shapeng1998/2048-backend
+
+# enter the project directory
+cd 2048-backend
+
+# install nodemon
+npm install nodemon -g
+
+# install dependency
+npm install
+
+# develop
+npm run dev
+```
+
 ## Technology stack
 
 Frontend:
@@ -24,7 +61,11 @@ Backend:
 - [MongoDB](https://www.mongodb.com/)
 - [Socket.IO](https://socket.io/)
 
-## Related Project
+## Related projects
 
 - [2048-frontend](https://github.com/shapeng1998/2048-frontend)
 - [2048-backend](https://github.com/shapeng1998/2048-backend)
+
+## Demo
+
+- [2048-game](http://47.101.139.249)
