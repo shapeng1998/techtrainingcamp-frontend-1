@@ -1,7 +1,7 @@
 <p align="center"><img style="width:300px" src="./2048_logo.png" alt="2048-logo"></p>
 
 <h1 align="center">2048-game-fullstack</h1>
-
+ 
 <p align="center">
   <a href="https://github.com/shapeng1998/2048-frontend/actions"><img src="https://github.com/shapeng1998/2048-frontend/workflows/frontend%20build/badge.svg" alt="frontend build"></a>
   <a href="https://github.com/shapeng1998/2048-backend/actions"><img src="https://github.com/shapeng1998/2048-backend/workflows/backend%20build/badge.svg" alt="backend build"></a>
@@ -76,3 +76,10 @@ Backend:
 ## Demo
 
 - [2048-game-fullstack](http://47.101.139.249)
+
+## Team members
+
+- [沙鹏(组长)](https://github.com/shapeng1998)
+- [付杰](https://github.com/F-jie)
+- [林文杰](https://github.com/ajdlkajd)
+- [邢喆](https://github.com/RainbowDashy)
