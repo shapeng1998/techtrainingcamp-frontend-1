@@ -1,4 +1,4 @@
-<p align="center"><img style="width:300px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/2048_logo.png" alt="2048-logo"></p>
+<p align="center"><img style="width:300px" src="./2048_logo.png" alt="2048-logo"></p>
 
 <h1 align="center" style="font-size:65px">2048-game-fullstack</h1>
 
