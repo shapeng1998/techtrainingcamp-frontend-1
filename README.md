@@ -1,6 +1,6 @@
 # techtrainingcamp-frontend-1
 
-> A simple implementation of 2048 game, supports scoreboards, multiplayer mode, difficulty adjustment and smooth animation. Some logic is referenced from project [2048-multiplayer-client](https://github.com/pietrushka/2048-multiplayer-client) and [2048-multiplayer-server](https://github.com/pietrushka/2048-multiplayer-server).
+> A simple implementation of 2048 game, supports scoreboards, multiplayer mode, difficulty adjustment and smooth animation. Some logic is referenced from project [2048-multiplayer-client](https://github.com/pietrushka/2048-multiplayer-client) and [2048-multiplayer-server](https://github.com/pietrushka/2048-multiplayer-server). Both frontend and backend have CI/CD using [Github Actions](https://github.com/features/actions).
 
 ## Additional features
 
